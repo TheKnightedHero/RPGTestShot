@@ -1,0 +1,3 @@
+I plan on first starting all this code out in C++ since I am currently most familiar with it
+    -I plan on creating this in C# and Java, storing each version in a separate folder
+    -
