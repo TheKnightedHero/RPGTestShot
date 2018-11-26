@@ -1,3 +1,23 @@
 I plan on first starting all this code out in C++ since I am currently most familiar with it
     -I plan on creating this in C# and Java, storing each version in a separate folder
-    -
+
+
+prototype until i can get into VS
+class characters
+{
+    string race; 
+    string playerClass;
+//The two variables above might actually be of type class not type string 
+/*
+    Race race;
+    PlayerClass playerClass;
+*/
+
+    int strength;
+    int Dexterity;
+    int intelligence;
+    int wisdom;
+    int Charisma;
+
+
+};
