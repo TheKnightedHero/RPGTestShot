@@ -15,6 +15,9 @@ class PlayerCharacter
 
         string characterName;
         string Class;
+
+        //The above variables might end up being classes of their own, depending upon how i choose to implement 
+        //the creation of the game
         int playerLevel;
 
         //Player Attributes
