@@ -3,6 +3,7 @@ I plan on first starting all this code out in C++ since I am currently most fami
 
 
 prototype until i can get into VS
+
 class characters
 {
     string race; 
