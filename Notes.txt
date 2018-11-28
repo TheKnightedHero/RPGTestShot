@@ -1,6 +1,4 @@
 
-
-
 prototype until i can get into VS
 
 class characters
