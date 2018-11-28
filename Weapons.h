@@ -4,9 +4,9 @@ using namespace std;
 class Weapons
 {
     private:
-        int damage = 0;
-        int magicDamage = 0;
+        int damage;
+        int magicDamage;
+        int weight;
         string description;
-
 
 };
