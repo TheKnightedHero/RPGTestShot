@@ -16,8 +16,10 @@ class characters
     int intelligence;
     int wisdom;
     int Charisma;
-
-
 };
+
+currently is being based on the 5th edition system, however, i might switch it up to be based on the 3.5 edition.
+-This is so i have more projects to see different imlementations
+-i have already played video games based off of This
 
 

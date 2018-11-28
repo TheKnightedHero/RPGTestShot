@@ -9,3 +9,6 @@ but have multiple stories that can work off of it.
 
 I plan on first starting all this code out in C++ since I am currently most familiar with it
     -I plan on creating this in C# and Java, storing each version in a separate folder
+
+for now, most of the guts for the classes will just simply be written inside the playercharacter class. 
+    -Inheritance can designed after i have written my ideas down inside this class

@@ -21,18 +21,27 @@ class PlayerCharacter
         int playerLevel;
 
         //Player Attributes
+        // might make a creature class that will contain the attributes, and have player inherit it from it
         int strength = 8;
-        int Dexterity = 8;
+        int dexterity = 8;
         int intelligence = 8;
         int wisdom = 8;
-        int Charisma = 8;
+        int charisma = 8;
+
+        int strengthModifier(int strength);
+        int dexterityModifier(int dexterity);
+        int intelligenceModifier(int inteligence);
+        int wisdomModifier(int wisdom);
+        int charismaModifier(int charisma);
         
+        int armorClass = 0;
         int maxHitPoints = 0;
         int currentHitPoints = 0;
         //int maxMana = 0;
         //int currentMana = 0;
         int passivePerception = 10; // if proficient with perception, should be 10 + perception
         int totalExpEarned = 0;
+
 
         //skills list 
         /*
